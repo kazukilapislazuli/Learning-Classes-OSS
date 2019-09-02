@@ -1,0 +1,10 @@
+git status - gives status of work done
+git log - gives log or work done
+1. Staging
+git add .   - to add files
+
+
+2. Commiting
+git commit-m 
+
+3. Pushing

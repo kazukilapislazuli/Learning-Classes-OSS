@@ -1,0 +1,29 @@
+subversion control system
+Decentralized Control System Tools
+	git
+	mercurial
+Centralized Control System Tools
+	github - It provides space to work on git
+	source forge
+	gitlab
+	bit bucket
+	
+LINUX COMMANDS
+pwd -  tell about current working directory/repository
+ls  -  tell about the files in the directory
+cd  -  change directory
+.   -  current directory
+..  -  previous directory
+
+# to code anything on github use "git"
+~ - it is known as tilt
+` -  it is known as back code or back tick
+ git config --global user.name "kazukilapislazuli" - to configure username
+ git config --global user.email "kazukilapislazuli" - to configure email address
+
+git init -  to intialize
+git remote add origin "link"    - to add the files to github repository
+				"link"  -  must be replaced by the link of the repository
+				origin is a variable can be changed as per conviniance 
+git branch -  to know your branch
+git checkout  -  to go back to previous version after resetting commit
